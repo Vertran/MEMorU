@@ -3,6 +3,7 @@ game.log
 
 # Visual Studio
 .vs/
+/.vs
 *.vcxproj.user
 *.vcxproj.filters
 *.sln.docstates
