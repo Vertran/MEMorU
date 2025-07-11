@@ -11,10 +11,14 @@
             "id": "d6214ee80d825b67",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MEMorU - Полное досье игры.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MEMorU - Полное досье игры"
             }
           }
         ]
@@ -161,12 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02ad07397ca8119a",
+  "active": "d6214ee80d825b67",
   "lastOpenFiles": [
     "ПРЕДИСТОРИЯ",
     "СТАНЦИЯ",
     "ИГРОК",
-    "MEMorU - концепт.md",
+    "MEMorU - Полное досье игры.md",
     "Welcome.md"
   ]
 }

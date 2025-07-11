@@ -11,8 +11,27 @@ endif()
 
 project ("game")
 
+# Пути к библиотекам (измените на свои пути)
+set(GLFW_DIR "${CMAKE_CURRENT_SOURCE_DIR}/libs/glfw")
+set(GLAD_DIR "${CMAKE_CURRENT_SOURCE_DIR}/libs/glad")
+set(GLM_DIR "${CMAKE_CURRENT_SOURCE_DIR}/libs/glm")
+
+# Подключение заголовочных файлов
+include_directories(${GLFW_DIR}/include)
+include_directories(${GLAD_DIR}/include)
+include_directories(${GLM_DIR})
+
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (game "game.cpp" "game.h")
+add_executable (game 
+    "game.cpp" "game.h"
+    "${GLAD_DIR}/src/glad.c"
+    "modules/logger.cpp" "modules/logger.h")
+
+# Подключение библиотек
+target_link_libraries(game
+    ${GLFW_DIR}/lib-vc2022/glfw3.lib  # Путь к GLFW библиотеке
+    opengl32.lib  # Системная OpenGL библиотека
+)
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET game PROPERTY CXX_STANDARD 20)
