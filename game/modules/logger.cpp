@@ -68,7 +68,8 @@ void Logger::log(LogLevel level, const std::string& message,
     }
 }
 
-// Удобные методы для разных уровней
+//Logger leveling
+
 void Logger::info(const std::string& message, const std::string& annotation) {
     log(LogLevel::INFO, message, annotation);
 }

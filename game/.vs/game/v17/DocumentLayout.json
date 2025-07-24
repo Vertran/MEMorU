@@ -7,11 +7,28 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\MEMorU\\game\\modules\\logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modules\\logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\MEMorU\\game\\modules\\renderer.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modules\\renderer.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\MEMorU\\game\\modules\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modules\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\MEMorU\\game\\modules\\renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modules\\renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\MEMorU\\game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\MEMorU\\game\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,20 +38,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "game.h",
               "DocumentMoniker": "C:\\Games\\MEMorU\\game\\game.h",
               "RelativeDocumentMoniker": "game.h",
               "ToolTip": "C:\\Games\\MEMorU\\game\\game.h",
               "RelativeToolTip": "game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-05T11:04:20.66Z",
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "renderer.h",
+              "DocumentMoniker": "C:\\Games\\MEMorU\\game\\modules\\renderer.h",
+              "RelativeDocumentMoniker": "modules\\renderer.h",
+              "ToolTip": "C:\\Games\\MEMorU\\game\\modules\\renderer.h",
+              "RelativeToolTip": "modules\\renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T16:43:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "C:\\Games\\MEMorU\\game\\modules\\renderer.cpp",
+              "RelativeDocumentMoniker": "modules\\renderer.cpp",
+              "ToolTip": "C:\\Games\\MEMorU\\game\\modules\\renderer.cpp",
+              "RelativeToolTip": "modules\\renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T16:42:41.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Games\\MEMorU\\game\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Games\\MEMorU\\game\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-08T11:46:21.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logger.h",
+              "DocumentMoniker": "C:\\Games\\MEMorU\\game\\modules\\logger.h",
+              "RelativeDocumentMoniker": "modules\\logger.h",
+              "ToolTip": "C:\\Games\\MEMorU\\game\\modules\\logger.h",
+              "RelativeToolTip": "modules\\logger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-08T11:44:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logger.cpp",
+              "DocumentMoniker": "C:\\Games\\MEMorU\\game\\modules\\logger.cpp",
+              "RelativeDocumentMoniker": "modules\\logger.cpp",
+              "ToolTip": "C:\\Games\\MEMorU\\game\\modules\\logger.cpp",
+              "RelativeToolTip": "modules\\logger.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T11:08:06.08Z"
             },
             {
               "$type": "Document",
@@ -44,19 +121,9 @@
               "RelativeDocumentMoniker": "game.cpp",
               "ToolTip": "C:\\Games\\MEMorU\\game\\game.cpp",
               "RelativeToolTip": "game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-05T11:04:00.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
-              "DocumentMoniker": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
-              "ToolTip": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-05T11:03:32.696Z",
               "EditorCaption": ""
             }
           ]

@@ -12,8 +12,11 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\data\\fonts",
+    "\\data\\shaders",
+    "\\modules"
   ],
-  "SelectedNode": "\\game.cpp",
   "PreviewInSolutionExplorer": false
 }

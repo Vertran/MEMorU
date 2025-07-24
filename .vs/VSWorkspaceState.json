@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\game",
+    "\\game\\data",
+    "\\game\\modules"
   ],
-  "SelectedNode": "\\Vault",
+  "SelectedNode": "\\game\\game.cpp",
   "PreviewInSolutionExplorer": false
 }
