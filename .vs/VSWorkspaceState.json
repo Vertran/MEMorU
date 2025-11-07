@@ -3,8 +3,9 @@
     "",
     "\\game",
     "\\game\\data",
-    "\\game\\modules"
+    "\\game\\modules",
+    "\\game\\modules\\UI"
   ],
-  "SelectedNode": "\\game\\game.cpp",
+  "SelectedNode": "\\game\\modules\\onStartup.cpp",
   "PreviewInSolutionExplorer": false
 }

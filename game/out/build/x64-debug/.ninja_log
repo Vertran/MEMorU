@@ -1,6 +1,9 @@
 # ninja log v6
 27	349	7734226250547148	CMakeFiles/game.dir/logger.cpp.obj	4665674937deaf48
 31	691	7734226250590050	CMakeFiles/game.dir/libs/glad/src/glad.c.obj	c0fc17a2fc752d27
-24	2162	7743011579210043	CMakeFiles/game.dir/game.cpp.obj	e860c38e83e288d4
-2163	2561	7743011600597696	game.exe	ca7a245a45f229f1
-15	2647	7736792137913620	CMakeFiles/game.dir/modules/logger.cpp.obj	5ed1d43e6c4fc289
+65	439	7774792969489452	CMakeFiles/game.dir/modules/UI/manager.cpp.obj	cc7eabc6e2faa077
+49	2101	7774792969339609	CMakeFiles/game.dir/game.cpp.obj	e860c38e83e288d4
+2129	2475	7774792990123823	game.exe	d58e5f7269cc04ac
+56	2128	7774792969406803	CMakeFiles/game.dir/modules/logger.cpp.obj	5ed1d43e6c4fc289
+60	957	7774792969449327	CMakeFiles/game.dir/modules/entity.cpp.obj	a0b88e316fee968c
+13	407	7781719283757182	CMakeFiles/game.dir/modules/onStartup.cpp.obj	186946fd942d46f9

@@ -25,7 +25,7 @@ include_directories(${GLM_DIR})
 add_executable (game 
     "game.cpp" "game.h"
     "${GLAD_DIR}/src/glad.c"
-    "modules/logger.cpp" "modules/logger.h" "modules/renderer.h" "modules/entity.h" "modules/entity.cpp")
+    "modules/logger.cpp" "modules/logger.h"    "modules/UI/manager.cpp" "modules/UI/manager.h" "modules/onStartup.cpp")
 
 # Подключение библиотек
 target_link_libraries(game
